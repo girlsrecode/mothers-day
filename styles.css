@@ -1,0 +1,30 @@
+h1{
+  font-family: 'Orelega One', cursive;
+  font-size: 60px;
+  color: #c67ace;
+}
+
+h2{
+  font-family: 'Roboto', sans-serif;
+  color: #c67ace;
+}
+
+h4{
+  font-family: 'Roboto', sans-serif;
+  color: #c67ace;
+}
+
+p{
+  font-family: 'Roboto', sans-serif;
+  color: #c67ace;
+}
+
+body{
+  background-image: url("background.png");
+}
+
+a{
+
+  color: #c67ace;
+  font-size: 50px;
+}
